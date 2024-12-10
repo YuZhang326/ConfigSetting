@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Y8fQPvpOYLkv5fJQQPwC9RK4HJMcrNV3k3C/XzKbLhI=",
+  "Source": "ConfigSetting",
+  "BasePath": "_content/ConfigSetting",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
